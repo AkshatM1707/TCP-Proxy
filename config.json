@@ -1,0 +1,7 @@
+{
+    "local_host": "127.0.0.1",
+    "local_port": 21,
+    "remote_host": "ftp.target.ca",
+    "remote_port": 21,
+    "receive_first": true
+}
